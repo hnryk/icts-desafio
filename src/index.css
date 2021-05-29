@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.ant-layout-sider-zero-width-trigger {
+  background-color: #F8F8F8 !important;
+}
+.anticon, .anticon-left{
+  color: black !important;
+}
